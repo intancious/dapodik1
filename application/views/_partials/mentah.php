@@ -64,6 +64,19 @@
 
 											</td>
 										</tr>
+										<tr>
+											<td>2</td>
+											<td>5.000.000</td>
+											<td>41.000.000</td>
+											<td>100 Tahun</td>
+											<td>PNS</td>
+											<td>
+												<a href="#" class="btn btn-success btn-sm">Edit</a>
+												<a href="#" class="btn btn-warning btn-sm">Lihat</a>
+												<a href="#" class="btn btn-danger btn-sm">Hapus</a>
+
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
